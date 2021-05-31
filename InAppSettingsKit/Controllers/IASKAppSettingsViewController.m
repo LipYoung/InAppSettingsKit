@@ -36,7 +36,7 @@
 #error "IASK needs ARC"
 #endif
 
-static NSString *kIASKCredits = @"Powered by InAppSettingsKit"; // Leave this as-is!!!
+static NSString *kIASKCredits = @""; // Leave this as-is!!!
 
 #define kIASKSpecifierValuesViewControllerIndex       0
 #define kIASKSpecifierChildViewControllerIndex        1
